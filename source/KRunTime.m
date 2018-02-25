@@ -241,7 +241,7 @@
         op = KPropertyOptionNotObject;
     }
     
-    NSLog(@"%@",rawTypeString);
+//    NSLog(@"%@",rawTypeString);
     ////判断常用类型
     const char *code = rawTypeString.UTF8String;
     switch (*code) {

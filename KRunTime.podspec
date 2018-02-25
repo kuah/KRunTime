@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'KRunTime'
-  s.version      = '0.1'
+  s.version      = '0.2'
   s.summary      = '自用的运行时工具'
   s.homepage     = 'https://github.com/kuah/KRunTime'
   s.author       = "CT4 => 284766710@qq.com"
